@@ -1,4 +1,4 @@
 # push_swap
-Status: In progress </br>
-Score: None </br>
+Status: Completed </br>
+Score: 100/100 </br>
 Retries: 0
